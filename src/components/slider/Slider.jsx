@@ -1,7 +1,7 @@
 import { useState } from "react";
 import "./slider.scss";
 
-function Slider({ images }) {
+function Slider({ images = [] }) {
   const [imageIndex, setImageIndex] = useState(null);
 
   const changeSlide = (direction) => {

@@ -1,4 +1,6 @@
-RealEState website build using MERN, Prisma for ORM <br>
+
+
+RealEState website build using <b>MERN</b> , Prisma for ORM <br>
 There are two folder client, backend, <br>
 client is react, backend is node, express js <br>
 to run this application first setup environment file 
